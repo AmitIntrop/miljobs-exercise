@@ -26,7 +26,7 @@ assignees: ''
 ## ERD
 
 - Link to ERD
-  https://app.diagrams.net/#G1wtHntJBMRM989ncvAYU3ztvl4bY1X7ii#%7B%22pageId%22%3A%222ca16b54-16f6-2749-3443-fa8db7711227%22%7D
+
 - Relevant tables: [enter cropped image]
 - Table Name - [TABLE NAME]
 
